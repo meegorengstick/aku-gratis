@@ -1,5 +1,5 @@
 #EXTM3U
-url-tvg="https://stvlgo2.000webhostapp.com/coba/epg.xml"
+url-tvg="http://stavol.my.id/epg/epg.xml"
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
