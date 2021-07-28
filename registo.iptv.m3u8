@@ -1,5 +1,5 @@
 #EXTM3U
-url-tvg="http://stavol.my.id/epg/epg.xml"
+tvg-url="http://stavol.my.id/epg/epg.xml"
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -37,7 +37,7 @@ Playlist ini punya : http://akugratis.netlify.app
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://i.postimg.cc/rmfnzbWn/aku-gratis-kompastv.jpg" group-title="LOKAL", KOMPAS TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://i.postimg.cc/rmfnzbWn/aku-gratis-kompastv.jpg" group-title="LOKAL", KOMPAS TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -273,7 +273,7 @@ https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazee
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.postimg.cc/fW55v6VB/aku-gratis-beritasatu.jpg" group-title="BERITA", BERITA SATU
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu" tvg-logo="https://i.postimg.cc/fW55v6VB/aku-gratis-beritasatu.jpg" group-title="BERITA", BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -1073,7 +1073,7 @@ http://mkctvbro.my.id/horas/pakailah.m3u8?id=bein2&bandwidth=default&sync=0
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2r0dTxy/20210726-115907.jpg" group-title="+ USEE", BERITA SATU
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu" tvg-logo="https://i.postimg.cc/j2r0dTxy/20210726-115907.jpg" group-title="+ USEE", BERITA SATU
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -1202,7 +1202,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKwwcXMJ/20210726-013730.jpg" group-title="+ USEE", KOMPAS TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://i.postimg.cc/ZKwwcXMJ/20210726-013730.jpg" group-title="+ USEE", KOMPAS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -1339,7 +1339,7 @@ https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HW5kFmVg/20210727-165921.jpg" group-title="+ VIDIO", BERITA SATU
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu" tvg-logo="https://i.postimg.cc/HW5kFmVg/20210727-165921.jpg" group-title="+ VIDIO", BERITA SATU
 http://gpc.my.id/vidio/beritasatu.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1392,7 +1392,7 @@ http://gpc.my.id/vidio/jaktv.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vT9TzF6G/20210727-170126.jpg" group-title="+ VIDIO", KOMPAS TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://i.postimg.cc/vT9TzF6G/20210727-170126.jpg" group-title="+ VIDIO", KOMPAS TV
 http://gpc.my.id/vidio/kompas-tv.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
