@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Aku Gratis!</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+<center>
+	<h1>Salin dan Masukan URL Playlist M3U8 Dibawah</h1>
+	<h2><a href="https://akugratis.netlify.app/tv.m3u8" title="Playlist M3U8" alt="Playlist M3U8">https://akugratis.netlify.app/tv.m3u8</a></h2>
+        <br>
+
+        </br>
+	<h3><i>Gunakan Aplikasi Pemutar
+            <a href="https://akugratis.netlify.app/ott-navigator" title="OTT Navigator Unlock Premium" alt="OTT Navigator Unlock Premium">OTT Navigator</i></a> <i>atau</i> 
+            <i>
+            <a href="https://akugratis.netlify.app/tivimate" title="TiviMate Unlock Premium" alt="TiviMate Unlock Premium">TiviMate</i></a>
+        <br>
+
+        </br>
+        URL EPG : <a href="https://akugratis.netlify.app/tv-epg" title="URL EPG" alt="URL EPG">https://akugratis.netlify.app/tv-epg</a>
+        </h3>
+
+</center>
+ <br>
+ </br>
+            <a href="https://akugratis.netlify.app/">
+
+</script>
+
+	<style>
+	h1,h2,p,a{
+		font-family: sans-serif;
+		font-weight: normal;
+	}
+ 
+	.jam-digital-malasngoding {
+		overflow: hidden;
+		width: 330px;
+		margin: 20px auto;
+		border: 5px solid #efefef;
+	}
+	.kotak{
+		float: left;
+		width: 110px;
+		height: 100px;
+		background-color: #189fff;
+	}
+	.jam-digital-malasngoding p {
+		color: #fff;
+		font-size: 36px;
+		text-align: center;
+		margin-top: 30px;
+	}
+ 
+ 
+</style>
+ 
+<div class="jam-digital-malasngoding">
+	<div class="kotak">
+		<p id="jam"></p>
+	</div>
+	<div class="kotak">
+		<p id="menit"></p>
+	</div>
+	<div class="kotak">
+		<p id="detik"></p>
+	</div>
+</div>
+ 
+<script>
+	window.setTimeout("waktu()", 1000);
+ 
+	function waktu() {
+		var waktu = new Date();
+		setTimeout("waktu()", 1000);
+		document.getElementById("jam").innerHTML = waktu.getHours();
+		document.getElementById("menit").innerHTML = waktu.getMinutes();
+		document.getElementById("detik").innerHTML = waktu.getSeconds();
+	}
+</script>
+
+</body>
+</html>
