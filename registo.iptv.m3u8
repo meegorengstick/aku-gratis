@@ -13,7 +13,7 @@ Playlist ini punya : http://akugratis.netlify.app
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nVwSJynM/aku-gratis-daaitvindonesia.jpg" group-title="LOKAL", DAAI TV 
+#EXTINF:-1 tvg-id="DaaiTV.id" tvg-name="Daai TV" tvg-logo="https://i.postimg.cc/nVwSJynM/aku-gratis-daaitvindonesia.jpg" group-title="LOKAL", DAAI TV 
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -892,7 +892,7 @@ https://link.zozotv.xyz:443/Freemium1/unlimited99/164
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRs05RF7/aku-gratis-championstv2.jpg" group-title="OLAHRAGA", CHAMPIONS TV 2
+#EXTINF:-1 tvg-id="ChampionTV2.id" tvg-name="Champions TV 2" tvg-logo="https://i.postimg.cc/ZRs05RF7/aku-gratis-championstv2.jpg" group-title="OLAHRAGA", CHAMPIONS TV 2
 https://link.zozotv.xyz:443/Freemium1/unlimited99/165
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -905,15 +905,15 @@ http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="FoxSportsAsia.us" tvg-logo="https://i.postimg.cc/SR90v6kp/aku-gratis-foxsports.jpg" group-title="OLAHRAGA", FOX SPORTS
+#EXTINF:-1 tvg-id="FoxSports.id" tvg-name="Fox Sports" tvg-logo="https://i.postimg.cc/SR90v6kp/aku-gratis-foxsports.jpg" group-title="OLAHRAGA", FOX SPORTS
 https://link.zozotv.xyz:443/Freemium1/unlimited99/159
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="FoxSports2Asia.us" tvg-logo="https://i.postimg.cc/LXgD6X9X/aku-gratis-foxsports2.jpg" group-title="OLAHRAGA", FOX SPORTS 2
+#EXTINF:-1 tvg-id="FoxSports2.id" tvg-name="Fox Sports 2" tvg-logo="https://i.postimg.cc/LXgD6X9X/aku-gratis-foxsports2.jpg" group-title="OLAHRAGA", FOX SPORTS 2
 https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-logo="https://i.postimg.cc/gj9DwWjK/aku-gratis-foxsports3.jpg" group-title="OLAHRAGA", FOX SPORTS 3
+#EXTINF:-1 tvg-id="FoxSports3.id" tvg-name="Fox Sports 3" tvg-logo="https://i.postimg.cc/gj9DwWjK/aku-gratis-foxsports3.jpg" group-title="OLAHRAGA", FOX SPORTS 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -1066,7 +1066,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion1&bandwidth=default&sync=0
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHd3PLv2/20210726-012902.jpg" group-title="+ USEE", CHAMPIONS TV 2
+#EXTINF:-1 tvg-id="ChampionTV2.id" tvg-name="Champions TV 2" tvg-logo="https://i.postimg.cc/cHd3PLv2/20210726-012902.jpg" group-title="+ USEE", CHAMPIONS TV 2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=champion2&bandwidth=default&sync=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -1083,7 +1083,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=ctiasia&bandwidth=default&sync=0
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KjrX1Wjw/20210726-115925.jpg" group-title="+ USEE", DAAI TV
+#EXTINF:-1 tvg-id="DaaiTV.id" tvg-name="Daai TV" tvg-logo="https://i.postimg.cc/KjrX1Wjw/20210726-115925.jpg" group-title="+ USEE", DAAI TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd47552940fb3069a97a8fb9df1d75e6456ecef11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -1109,15 +1109,15 @@ Playlist ini punya : http://akugratis.netlify.app
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="FoxSportsAsia.us" tvg-logo="https://i.postimg.cc/yYpT9cDd/20210726-013425.jpg" group-title="+ USEE", FOX SPORTS
+#EXTINF:-1 tvg-id="FoxSports.id" tvg-name="Fox Sports" tvg-logo="https://i.postimg.cc/yYpT9cDd/20210726-013425.jpg" group-title="+ USEE", FOX SPORTS
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport1&bandwidth=default&sync=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L68TnN6w/20210726-013439.jpg" group-title="+ USEE", FOX SPORTS 2
+#EXTINF:-1 tvg-id="FoxSports2.id" tvg-name="Fox Sports 2" tvg-logo="https://i.postimg.cc/L68TnN6w/20210726-013439.jpg" group-title="+ USEE", FOX SPORTS 2
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport2&bandwidth=default&sync=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpn8NQj0/20210726-013451.jpg" group-title="+ USEE", FOX SPORTS 3
+#EXTINF:-1 tvg-id="FoxSports3.id" tvg-name="Fox Sports 3" tvg-logo="https://i.postimg.cc/Wpn8NQj0/20210726-013451.jpg" group-title="+ USEE", FOX SPORTS 3
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=foxsport3&bandwidth=default&sync=0
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1310,7 +1310,7 @@ http://gpc.my.id/vidio/citra-entertainment.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2zqfHG5/20210727-165946.jpg" group-title="+ VIDIO", DAAI TV
+#EXTINF:-1 tvg-id="DaaiTV.id" tvg-name="Daai TV" tvg-logo="https://i.postimg.cc/j2zqfHG5/20210727-165946.jpg" group-title="+ VIDIO", DAAI TV
 http://gpc.my.id/vidio/daai-tv.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
