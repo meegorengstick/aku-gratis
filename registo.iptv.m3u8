@@ -1,10 +1,11 @@
 #EXTM3U
 url-tvg="http://stavol.my.id/epg/epg.xml"
+tvg-url="http://stavol.my.id/epg/epg.xml"
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="LOKAL", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="AKU GRATIS!", Aku Gratis!
+
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -20,7 +21,7 @@ https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://i.postimg.cc/nLtwWqpk/aku-gratis-globaltv.jpg" group-title="LOKAL", GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://i.postimg.cc/nLtwWqpk/aku-gratis-globaltv.jpg" group-title="LOKAL", GTV
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -123,10 +124,6 @@ Playlist ini punya : http://akugratis.netlify.app
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e82650fb3069a97a8fb9df1d75e6456ecef11
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="DAERAH", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YG7Tc0C/aku-gratis-balitv.jpg" group-title="DAERAH", BALI TV
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
@@ -160,10 +157,6 @@ http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0RnBz5Y/aku-gratis-tvku.jpg" group-title="DAERAH", TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 Playlist ini punya : http://akugratis.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="RELIGI", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qBjqMGFN/aku-gratis-aditv.jpg" group-title="RELIGI", ADi TV
@@ -255,10 +248,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tTrbyBgy/aku-gratis-wesaltv.jpg" group-title="RELIGI", wesal tv
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 Playlist ini punya : http://akugratis.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="BERITA", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-id="ABCTV.au" tvg-logo="https://i.postimg.cc/63fcgPY6/aku-gratis-abcaustralia.jpg" group-title="BERITA", ABC AUSTRALIA
@@ -355,10 +344,6 @@ https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="MUSIK", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4nkz3b82/aku-gratis-channelv.jpg" group-title="MUSIK", CHANNEL [V]
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
@@ -396,10 +381,6 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/K85sdRjh/aku-gratis-vevo.jpg" group-title="MUSIK", vevo rnb
 https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
 Playlist ini punya : http://akugratis.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="ANAK", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTqL4z6F/aku-gratis-animax.jpg" group-title="ANAK", ANIMAX
@@ -492,10 +473,6 @@ http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.
 http://gpc.my.id/vidio/zoomoo.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="PENGETAHUAN", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq0KVMgW/aku-gratis-animalplanet.jpg" group-title="PENGETAHUAN", animal planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
@@ -562,10 +539,6 @@ https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" tvg-logo="https://i.postimg.cc/qMGswHFq/20210726-114900.jpg" group-title="PENGETAHUAN", Smithsonian CHANNEL
 http://gpc.my.id/vidio/smithsonian.m3u8
 Playlist ini punya : http://akugratis.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="HIBURAN", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x1yWggW9/aku-gratis-anhuitv.jpg" group-title="HIBURAN", Anhui TV
@@ -728,10 +701,6 @@ https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 http://gpc.my.id/vidio/zing.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="GAYA HIDUP", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L85sx2P4/aku-gratis-asianfoodnetwork.jpg" group-title="GAYA HIDUP", afn
 https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
@@ -776,11 +745,6 @@ https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FHKKLk2T/aku-gratis-tlc.jpg" group-title="GAYA HIDUP", TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
-Playlist ini punya : http://akugratis.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="FILM", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
@@ -887,10 +851,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WpKqjnCs/aku-gratis-andprivehd.jpg" group-title="FILM", &priveHD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 Playlist ini punya : http://akugratis.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="OLAHRAGA", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y3B2fgJ/aku-gratis-astroarena.jpg" group-title="OLAHRAGA", astro ARENA
@@ -1021,10 +981,6 @@ Playlist ini punya : http://akugratis.netlify.app
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6p1C2X1G/aku-gratis-zqtvsports.jpg" group-title="OLAHRAGA", ZQ TV SPORTS
 https://six1.zqprem.com/zqscore/index.mpd
 Playlist ini punya : http://akugratis.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="+ USEE", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8z8jqz34/20210726-012149.jpg" group-title="+ USEE", ABC AUSTRALIA
@@ -1333,11 +1289,6 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=wakuwaku&bandwidth=default&sync=0
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=zbioskop&bandwidth=default&sync=0
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="+ VIDIO", 1. Aku Gratis! 
-https://storage.googleapis.com/sx-master/312d932283e81e%2Ffiles%2F1627374384049-info-penggunaan.mp4
-Playlist ini punya : http://akugratis.netlify.app
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="Berita Satu" tvg-logo="https://i.postimg.cc/HW5kFmVg/20210727-165921.jpg" group-title="+ VIDIO", BERITA SATU
 http://gpc.my.id/vidio/beritasatu.m3u8
@@ -1369,7 +1320,7 @@ http://gpc.my.id/vidio/dw-english.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKRK6JJW/20210727-170020.jpg" group-title="+ VIDIO", GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://i.postimg.cc/FKRK6JJW/20210727-170020.jpg" group-title="+ VIDIO", GTV
 http://gpc.my.id/vidio/gtv.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
