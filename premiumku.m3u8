@@ -1416,4 +1416,9 @@ Playlist ini punya : http://akugratis.netlify.app
 http://gpc.my.id/vidio/tvri.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-name="Zee Bioskop" tvg-logo="https://i.ibb.co/x12fmfh/20210729-152747.jpg" group-title="+ VIDIO", ZEE BIOSKOP
+http://gpc.my.id/vidio/zee-bioskop.m3u8
+Playlist ini punya : http://akugratis.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
