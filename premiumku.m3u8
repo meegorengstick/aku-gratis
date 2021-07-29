@@ -443,7 +443,7 @@ Playlist ini punya : http://akugratis.netlify.app
 http://gpc.my.id/vidio/hip-hip-horee.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63xcqKyf/20210726-013604.jpg" group-title="ANAK", HORee! 
+#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://i.postimg.cc/63xcqKyf/20210726-013604.jpg" group-title="ANAK", HORee! 
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=horee&bandwidth=default&sync=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -1341,7 +1341,7 @@ http://gpc.my.id/vidio/gtv.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkFn0Jfj/20210727-170033.jpg" group-title="+ VIDIO", HORee!
+#EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://i.postimg.cc/gkFn0Jfj/20210727-170033.jpg" group-title="+ VIDIO", HORee!
 http://gpc.my.id/vidio/horee.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
