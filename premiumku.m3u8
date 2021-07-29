@@ -422,7 +422,7 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT8v086S/20210726-013103.jpg" group-title="ANAK", Da Vinci
+#EXTINF:-1 tvg-id="DaVinci.id" tvg-name="Da Vinci" tvg-logo="https://i.postimg.cc/xT8v086S/20210726-013103.jpg" group-title="ANAK", Da Vinci
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=davinci&bandwidth=default&sync=0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -471,7 +471,7 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1Rwcgqcp/20210726-114848.jpg" group-title="ANAK", zoo moo
+#EXTINF:-1 tvg-id="Zoomoo.id" tvg-name="Zoo Moo" tvg-logo="https://i.postimg.cc/1Rwcgqcp/20210726-114848.jpg" group-title="ANAK", zoo moo
 http://gpc.my.id/vidio/zoomoo.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1093,7 +1093,7 @@ Playlist ini punya : http://akugratis.netlify.app
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd47552940fb3069a97a8fb9df1d75e6456ecef11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT8v086S/20210726-013103.jpg" group-title="+ USEE", Da Vinci
+#EXTINF:-1 tvg-id="DaVinci.id" tvg-name="Da Vinci" tvg-logo="https://i.postimg.cc/xT8v086S/20210726-013103.jpg" group-title="+ USEE", Da Vinci
 http://ott-navigator.my.id/USEETV-MPD/chunklist.m3u8?id=davinci&bandwidth=b684100&sync=0
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1323,6 +1323,11 @@ Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
 #EXTINF:-1 tvg-id="DaaiTV.id" tvg-name="Daai TV" tvg-logo="https://i.postimg.cc/j2zqfHG5/20210727-165946.jpg" group-title="+ VIDIO", DAAI TV
 http://gpc.my.id/vidio/daai-tv.m3u8
+Playlist ini punya : http://akugratis.netlify.app
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
+#EXTINF:-1 tvg-id="DaVinci.id" tvg-name="Da Vinci" tvg-logo="https://i.ibb.co/NLPtHSh/20210729-162335.jpg" group-title="+ VIDIO", Da Vinci
+http://gpc.my.id/vidio/da-vinci.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
