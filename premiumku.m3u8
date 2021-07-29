@@ -2,6 +2,8 @@
 url-tvg="http://stavol.my.id/epg/epg.xml"
 tvg-url="http://stavol.my.id/epg/epg.xml"
 Playlist ini punya : http://akugratis.netlify.app
+URL EPG : http://stavol.my.id/epg/epg.xml
+EPG Punya : STAVOL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrSdQF4H/20210716-155123.jpg" group-title="AKU GRATIS!", Aku Gratis!
