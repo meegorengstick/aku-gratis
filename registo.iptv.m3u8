@@ -1273,7 +1273,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://i.ibb.co/18kQH8z/20210729-134538.jpg" group-title="+ USEE", tvN
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://i.ibb.co/bFQgfRz/20210729-134538.jpg" group-title="+ USEE", tvN
 https://mkctvbro.my.id/horas/pakailah.m3u8?id=tvn&bandwidth=default&sync=0
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1407,7 +1407,7 @@ http://gpc.my.id/vidio/tv-edukasi.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://i.ibb.co/5LkS4cD/20210729-134555.jpg" group-title="+ VIDIO", tvN
+#EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://i.ibb.co/StyBC3m/20210729-134555.jpg" group-title="+ VIDIO", tvN
 http://gpc.my.id/vidio/tvn.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
