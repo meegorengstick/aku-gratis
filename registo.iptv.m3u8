@@ -63,7 +63,7 @@ Playlist ini punya : http://akugratis.netlify.app
 http://gpc.my.id/vidio/mola-tv-free.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLfFf6w8/aku-gratis-mayapadatv.jpg" group-title="LOKAL", mytv
+#EXTINF:-1 tvg-id="MyTV.id" tvg-name="MYTV" tvg-logo="https://i.postimg.cc/cLfFf6w8/aku-gratis-mayapadatv.jpg" group-title="LOKAL", mytv
 http://210.210.155.35/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -71,7 +71,7 @@ http://210.210.155.35/session/5fa1cb6e-2edb-11eb-9063-b82a72d63267/qwr9ew/s/s46/
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/brGTrvqr/aku-gratis-nusantaratv.jpg" group-title="LOKAL", nusantara tv
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://i.postimg.cc/brGTrvqr/aku-gratis-nusantaratv.jpg" group-title="LOKAL", nusantara tv
 https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1202,7 +1202,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15shkyYQ/20210726-120116.jpg" group-title="+ USEE", nusantara tv
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://i.postimg.cc/15shkyYQ/20210726-120116.jpg" group-title="+ USEE", nusantara tv
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
@@ -1358,7 +1358,7 @@ http://gpc.my.id/vidio/mnc.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W17DCvY3/20210727-170155.jpg" group-title="+ VIDIO", mytv
+#EXTINF:-1 tvg-id="MyTV.id" tvg-name="MYTV" tvg-logo="https://i.postimg.cc/W17DCvY3/20210727-170155.jpg" group-title="+ VIDIO", mytv
 http://gpc.my.id/vidio/mytv.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1368,7 +1368,7 @@ http://gpc.my.id/vidio/net-tv.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NTM5NDVlNjktZDQxYS0zMTExLTliZDYtZmUyZDg5M2M2ODg3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvrh1RLS/20210727-170215.jpg" group-title="+ VIDIO", nusantara tv
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-name="Nusantara TV" tvg-logo="https://i.postimg.cc/qvrh1RLS/20210727-170215.jpg" group-title="+ VIDIO", nusantara tv
 http://gpc.my.id/vidio/nusantara-tv.m3u8
 Playlist ini punya : http://akugratis.netlify.app
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
